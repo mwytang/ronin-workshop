@@ -18,6 +18,7 @@ Contents
 --------
 
 .. toctree::
-
+   
+   machine
    usage
    api

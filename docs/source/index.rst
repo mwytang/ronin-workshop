@@ -1,18 +1,7 @@
-Welcome to Lumache's documentation!
+UBCO Ronin Workshop
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-   Hello World
+An introduction to the RONIN Platform web front end and how it connects to the AWS platform by creating, securing, and maintaining virtual machines, and an exploration of storage options and cost-optimization best practices.
 
 Contents
 --------

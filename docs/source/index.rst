@@ -20,5 +20,5 @@ Contents
 .. toctree::
    
    machine
-   usage
-   api
+   cluster
+   resources

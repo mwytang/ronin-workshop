@@ -21,7 +21,7 @@ Exercise 2: Build a Linux Machine
 Configuration
 
 * **Operating System:** Ubuntu 18.04
-*	**Name:** my-windows-NAME or INITIAL – e.g., my-ubuntu-JohnSmith, my-ubuntu-JS
+*	**Name:** my-ubuntu-NAME or INITIAL – e.g., my-ubuntu-JohnSmith, my-ubuntu-JS
 * **Machine:** Medium General Purpose
 *	**Additional Storage:** Small SSD General Purpose
 

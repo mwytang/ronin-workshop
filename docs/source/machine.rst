@@ -5,7 +5,7 @@ Exercise 1: Build a Windows Machine
 -----------------------------------
 Configuration
 
-* **Operating System:** WINDOWS-MATLAB-2021A-CUDA
+* **Operating System:** WINDOWS-UBC-VPN
 *	**Name:** my-windows-NAME or INITIAL – e.g., my-windows-JohnSmith, my-windows-JS
 * **Machine:** Medium General Purpose
 *	**Additional Storage:** Small SSD General Purpose

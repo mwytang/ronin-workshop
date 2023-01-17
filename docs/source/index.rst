@@ -1,4 +1,4 @@
-UBCO Ronin Workshop
+UBCO RONIN Workshop
 ===================================
 
 An introduction to the RONIN Platform web front end and how it connects to the AWS platform by creating, securing, and maintaining virtual machines, and an exploration of storage options and cost-optimization best practices.
@@ -6,7 +6,7 @@ An introduction to the RONIN Platform web front end and how it connects to the A
 Resources
 ---------
 * **UBC myVPN**: https://it.ubc.ca/services/email-voice-internet/myvpn
-* **UBC ARC Ronin Login:** https://ronin.ubc-hpc.cloud/ 
+* **UBC ARC RONIN Login:** https://ronin.ubc-hpc.cloud/ 
 * **Additional Information:** https://arc.ubc.ca/arc-cloud-platform-ubc-arc-ronin 
 * **Application Form:** https://flex.redcap.ubc.ca/surveys/?s=3AXLLYNYWW
 * **RONIN Blog:** https://blog.ronin.cloud/ 

@@ -39,18 +39,7 @@ Configuration
 * **Machine:** Medium General Purpose
 * **Additional Storage:** Small SSD General Purpose
 
-References
-
-* **Instructions:** https://blog.ronin.cloud/create-a-machine/
-* **Connect to Linux Machine:** https://blog.ronin.cloud/connect-to-machine/
-
-To ssh to the Machine from your own terminal
-
-.. code-block:: console
-
-   $ ssh -i <key>.pem ubuntu@<machine-name>.ubc-hpc.cloud
-
-To update and seupt the Machine
+Upgrade the Machine and Install packages
 
 .. code-block:: console
 
@@ -58,3 +47,15 @@ To update and seupt the Machine
    $ sudo apt-get upgrade
    $ sudo apt install build-essential ca-certificates coreutils curl environment-modules gfortran git gpg lsb-release python3 python3-distutils python3-venv unzip zip
    $ sudo apt install awscli
+ 
+To ssh to the Machine from your own terminal
+
+.. code-block:: console
+
+   $ ssh -i <key>.pem ubuntu@<machine-name>.ubc-hpc.cloud
+
+References
+
+* **Instructions:** https://blog.ronin.cloud/create-a-machine/
+* **Connect to Linux Machine:** https://blog.ronin.cloud/connect-to-machine/
+

@@ -5,7 +5,7 @@ Exercise 1: Build a Windows Machine
 -----------------------------------
 Configuration
 
-* **Operating System:** WINDOWS_SERVER-2019
+* **Operating System:** WINDOWS-UBC-VPN
 *	**Name:** my-windows-NAME or INITIAL – e.g., my-windows-JohnSmith, my-windows-JS
 * **Machine:** Medium General Purpose
 *	**Additional Storage:** Small SSD General Purpose
@@ -21,7 +21,7 @@ Exercise 2: Build a Linux Machine
 Configuration
 
 * **Operating System:** Ubuntu 18.04
-*	**Name:** my-windows-NAME or INITIAL – e.g., my-ubuntu-JohnSmith, my-ubuntu-JS
+*	**Name:** my-ubuntu-NAME or INITIAL – e.g., my-ubuntu-JohnSmith, my-ubuntu-JS
 * **Machine:** Medium General Purpose
 *	**Additional Storage:** Small SSD General Purpose
 

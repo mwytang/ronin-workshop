@@ -3,6 +3,12 @@ Building a Machine
 
 Exercise 1: Build a Windows Machine
 -----------------------------------
+Objectives
+
+#. Build a Windows Machine
+#. Remote Desktop to the Windows Machine
+#. Connect to the UBC myVPN
+
 Configuration
 
 * **Operating System:** WINDOWS-UBC-VPN
@@ -10,24 +16,33 @@ Configuration
 * **Machine:** Medium General Purpose
 *	**Additional Storage:** Small SSD General Purpose
 
-Links
+References
 
 * **Instructions:** https://blog.ronin.cloud/create-a-machine/
+* **Connect to Windows Machine:** https://blog.ronin.cloud/connect-to-windows-rdp/
 * **Microsoft Remote Desktop (Mac OS):** https://itunes.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12
 * **Remmina Remote Desktop (Linux):** https://remmina.org/
 
 Exercise 2: Build a Linux Machine
 ---------------------------------
+Objectives
+
+#. Build a Linux Machine
+#. SSH to the Linux Machine
+#. Upgrade the Linux Machine
+#. Install packages
+
 Configuration
 
 * **Operating System:** Ubuntu 18.04
-*	**Name:** my-ubuntu-NAME or INITIAL – e.g., my-ubuntu-JohnSmith, my-ubuntu-JS
+* **Name:** my-ubuntu-NAME or INITIAL – e.g., my-ubuntu-JohnSmith, my-ubuntu-JS
 * **Machine:** Medium General Purpose
-*	**Additional Storage:** Small SSD General Purpose
+* **Additional Storage:** Small SSD General Purpose
 
-Links
+References
 
 * **Instructions:** https://blog.ronin.cloud/create-a-machine/
+* **Connect to Linux Machine:** https://blog.ronin.cloud/connect-to-machine/
 
 To ssh to the Machine from your own terminal
 

@@ -3,20 +3,20 @@ Building a Machine
 
 Exercise 1: Build a Windows Machine
 -----------------------------------
-Objectives
+**Objectives**
 
 #. Build a Windows Machine
 #. Remote Desktop to the Windows Machine
 #. Connect to the UBC myVPN
 
-Configuration
+**Configuration**
 
 * **Operating System:** WINDOWS-UBC-VPN
 *	**Name:** my-windows-NAME or INITIAL – e.g., my-windows-JohnSmith, my-windows-JS
 * **Machine:** Medium General Purpose
 *	**Additional Storage:** Small SSD General Purpose
 
-References
+**References**
 
 * **Instructions:** https://blog.ronin.cloud/create-a-machine/
 * **Connect to Windows Machine:** https://blog.ronin.cloud/connect-to-windows-rdp/
@@ -25,21 +25,21 @@ References
 
 Exercise 2: Build a Linux Machine
 ---------------------------------
-Objectives
+**Objectives**
 
 #. Build a Linux Machine
 #. SSH to the Linux Machine
 #. Upgrade the Linux Machine
 #. Install packages
 
-Configuration
+**Configuration**
 
 * **Operating System:** Ubuntu 18.04
 * **Name:** my-ubuntu-NAME or INITIAL – e.g., my-ubuntu-JohnSmith, my-ubuntu-JS
 * **Machine:** Medium General Purpose
 * **Additional Storage:** Small SSD General Purpose
 
-Upgrade the Machine and Install packages
+**Upgrade the Machine and Install packages**
 
 .. code-block:: console
 
@@ -54,7 +54,7 @@ To ssh to the Machine from your own terminal
 
    $ ssh -i <key>.pem ubuntu@<machine-name>.ubc-hpc.cloud
 
-References
+**References**
 
 * **Instructions:** https://blog.ronin.cloud/create-a-machine/
 * **Connect to Linux Machine:** https://blog.ronin.cloud/connect-to-machine/

@@ -1,9 +1,6 @@
 Additional Resources
 ==================
 
-Links
------
-
 *	**Project Dashboard:** https://blog.ronin.cloud/dashboard-help/
 *	**Storage:** https://blog.ronin.cloud/data-management/
 *	**Packaging Machines:** https://blog.ronin.cloud/package-help/

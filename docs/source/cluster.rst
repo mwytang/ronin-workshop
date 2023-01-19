@@ -26,7 +26,7 @@ Stress the HPC Cluster
    $ spack install stress
    $ vim stress.sh
 
-.. code-block:: shell
+.. code-block:: bash
 
    #!/bin/bash
    #SBATCH --nodes=1

@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Ronin Workshop'
+project = 'RONIN Workshop'
 copyright = '2023'
 # author = 'Graziella'
 

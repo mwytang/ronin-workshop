@@ -22,3 +22,4 @@ Contents
    machine
    cluster
    resources
+   object

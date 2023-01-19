@@ -3,13 +3,13 @@ Building a HPC Cluster
 
 Exercise 3: Build a HPC Cluster
 -------------------------------
-Objectives
+**Objectives**
 
 #. Build an Auto-Scaling HPC Cluster
 #. Connect to the HPC Cluster
 #. Submit jobs to the HPC Cluster
 
-Configuration
+**Configuration**
 
 * **Operating System:** Ubuntu 18.04
 *	**Scheduler:** Slurm scheduler
@@ -18,7 +18,7 @@ Configuration
 *	**Compute Nodes:** Min: 1; Max: 25
 *	**SSH Key:** Key generated from Exercise 2
 
-Stress the HPC Cluster
+**Stress the HPC Cluster**
 
 .. code-block:: console
 
@@ -41,7 +41,7 @@ Stress the HPC Cluster
    $ sbatch -a [1-10] stress.sh
    $ sbatch -a [1-15] stress.sh
 
-Links
+**Referrences**
 
 * **Instructions:** https://blog.ronin.cloud/auto-scale-a-cluster/
 * **Simple Slurm Guide:** https://blog.ronin.cloud/slurm-intro/

@@ -13,7 +13,7 @@ Exercise 1: Build a Windows Machine
 
 * **Operating System:** WINDOWS-UBC-VPN
 *	**Name:** my-windows-NAME or INITIAL – e.g., my-windows-JohnSmith, my-windows-JS
-* **Machine:** Medium General Purpose
+* **Machine:** T3.Large General Purpose
 *	**Additional Storage:** Small SSD General Purpose
 
 **References**
@@ -36,7 +36,7 @@ Exercise 2: Build a Linux Machine
 
 * **Operating System:** Ubuntu 18.04
 * **Name:** my-ubuntu-NAME or INITIAL – e.g., my-ubuntu-JohnSmith, my-ubuntu-JS
-* **Machine:** Medium General Purpose
+* **Machine:** T3.Medium General Purpose
 * **Additional Storage:** Small SSD General Purpose
 
 **Upgrade the Machine and Install packages**

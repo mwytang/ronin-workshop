@@ -7,8 +7,8 @@ Resources
 ---------
 * **UBC myVPN**: https://it.ubc.ca/services/email-voice-internet/myvpn
 * **UBC ARC RONIN Login:** https://ronin.ubc-hpc.cloud/ 
-* **Additional Information:** https://arc.ubc.ca/arc-cloud-platform-ubc-arc-ronin 
-* **Application Form:** https://flex.redcap.ubc.ca/surveys/?s=3AXLLYNYWW
+* **UBC ARC RONIN - Additional Information:** https://arc.ubc.ca/arc-cloud-platform-ubc-arc-ronin 
+* **UBC ARC RONIN Application Form:** https://flex.redcap.ubc.ca/surveys/?s=3AXLLYNYWW
 * **RONIN Blog:** https://blog.ronin.cloud/ 
 * **RONIN Link:** https://blog.ronin.cloud/ronin-link/ 
 * **UBC ARC Support:** arc.support@ubc.ca 

@@ -14,9 +14,9 @@ Exercise 3: Build a HPC Cluster
 * **Operating System:** Ubuntu 18.04
 *	**Scheduler:** Slurm scheduler
 *	**Name:** my-windows-NAME or INITIAL – e.g., my-cluster-JohnSmith, my-cluster-JS
-*  **Head Node:** T3.Large
-*	**Compute Node:** T3.Medium
-*	**Compute Nodes:** Min: 1; Max: 25
+*  **Head Node:** c4.2xlarge
+*	**Compute Node:** T3.Small
+*	**Compute Nodes:** Min: 1; Max: 4
 *	**SSH Key:** Key generated from Exercise 2
 
 **Stress the HPC Cluster**
